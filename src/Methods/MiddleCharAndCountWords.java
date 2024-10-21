@@ -4,7 +4,7 @@ public class MiddleCharAndCountWords {
     public static void main(String[] args) {
 
         MiddleCharAndCountWords mid = new MiddleCharAndCountWords();
-        System.out.println(mid.countWords("keleshche umrelo takova"));
+        System.out.println(mid.countWords("Hello there people"));
     }
 
     public void middleChars(String text) {
